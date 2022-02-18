@@ -1,5 +1,5 @@
 #a program that asks for your details and prints out your wage
-print('welcome to our services')
+print('welcome to our service')
 hours_worked = float(input("enter the number of hours worked for the month"))
 rate_A = 0.5
 rate_b = 0.31
